@@ -1,4 +1,4 @@
-const TOKEN_DISTRIBUTION = [
+[
   {
     "label": "Private Sale",
     "cs": "341,683,537",
