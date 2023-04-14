@@ -1,0 +1,47 @@
+const TOKEN_DISTRIBUTION = [
+  {
+    "label": "Private Sale",
+    "cs": "341,683,537",
+    "max": "345,600,000"
+  },
+  {
+    "label": "Public Sale",
+    "cs": "163,455,935",
+    "max": "165,120,000"
+  },
+  {
+    "label": "Team + Advisors",
+    "cs": "63,095,445",
+    "max": "921,600,000"
+  },
+  {
+    "label": "Game Rewards",
+    "cs": "15,000,025",
+    "max": "1,178,880,000"
+  },
+  {
+    "label": "Staking + Farming Rewards",
+    "cs": "13,390,361.05",
+    "max": "576,000,000"
+  },
+  {
+    "label": "Metaverse Entity",
+    "cs": "0",
+    "max": "153,600,000"
+  },
+  {
+    "label": "Partnerships",
+    "cs": "68,495,630",
+    "max": "192,000,000"
+  },
+  {
+    "label": "Reserves",
+    "cs": "7,682,482",
+    "max": "192,000,000"
+  },
+  {
+    "label": "Floating Liquidity",
+    "cs": "51,137,000",
+    "max": "115,200,000"
+  }
+]
